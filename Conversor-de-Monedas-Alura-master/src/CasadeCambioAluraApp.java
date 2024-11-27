@@ -6,7 +6,7 @@ import java.net.http.HttpResponse;
 import javax.swing.*;
 
 public class CasadeCambioAluraApp {
-    private static final String API_KEY = "94f6357cdda3f6f66070af6a";
+    private static final String API_KEY = "769e520ca53664d60237154e";
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public static void main(String[] args) {
