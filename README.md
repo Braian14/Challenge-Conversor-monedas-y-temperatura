@@ -26,8 +26,11 @@ Cómo Funciona
 Al iniciar el programa, aparece un menú principal con las opciones:
 
 Conversor de Monedas
+
 Conversor de Temperaturas
+
 Salir
+
 Dependiendo de la selección:
 
 Conversor de Monedas: Se muestra un menú desplegable con las opciones de monedas soportadas. Después de seleccionar una opción, el usuario ingresa el valor a convertir, y el resultado aparece en una ventana emergente.
